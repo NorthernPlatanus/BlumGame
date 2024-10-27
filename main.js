@@ -121,8 +121,6 @@ const tgLogin = async () => {
         onError: (err) => console.log(err),
     })
 
-
-    console.log('asd')
     client.session.save();
     return client;
 }
