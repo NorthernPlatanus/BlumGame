@@ -10,7 +10,7 @@ To configure this program, you need to add telegram data of your account to the 
 ## Installation and usage
 You need to have node.js and npm installed. You can install npm right with the node.js installer. After installing node.js, download the source code:
 
-1. **On Windows**: Click the green "Code" button in the top right corner, then select "Download ZIP".
+1. **On Windows**: Click the green "Code" button in the top right corner, then select "Download ZIP". Or just click [this link](https://github.com/NorthernPlatanus/BlumGame/archive/refs/heads/main.zip).
 2. **On Linux**: You can download the source code with this command:  
    ```wget https://github.com/NorthernPlatanus/BlumGame.git```
 
